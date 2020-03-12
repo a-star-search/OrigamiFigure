@@ -103,8 +103,6 @@ share the same end position may have the same or different Point objects.
 
 -----
 
-Legacy code (might be useful in the future)
-
 
 /**
 Miscellaneous utility functions for this project
